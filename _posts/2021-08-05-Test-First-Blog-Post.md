@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "First blog on GitHub"
+date: 2021-08-05
 ---
 
 ## Creating a blog on Github using Jekyll
